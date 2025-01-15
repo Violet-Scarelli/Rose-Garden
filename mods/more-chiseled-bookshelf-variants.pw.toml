@@ -1,0 +1,13 @@
+name = "More Chiseled Bookshelf Variants"
+filename = "MoreChiseledBookshelfVariants-1.6.4+1.21.4-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vkun3O1z/versions/fksL2zDI/MoreChiseledBookshelfVariants-1.6.4%2B1.21.4-Fabric.jar"
+hash-format = "sha1"
+hash = "e6027f22653ad9d7212e935079e88b9aa20a360e"
+
+[update]
+[update.modrinth]
+mod-id = "vkun3O1z"
+version = "fksL2zDI"

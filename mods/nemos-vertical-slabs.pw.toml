@@ -1,0 +1,13 @@
+name = "Nemo's Vertical Slabs"
+filename = "nemos-vertical-slabs-1.21.4-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gKAe13OK/versions/MJKImkjE/nemos-vertical-slabs-1.21.4-1.2.1.jar"
+hash-format = "sha1"
+hash = "012a505b84e3d9d5879690151dd16ea63cddaab5"
+
+[update]
+[update.modrinth]
+mod-id = "gKAe13OK"
+version = "MJKImkjE"

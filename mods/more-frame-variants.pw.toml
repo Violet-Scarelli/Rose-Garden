@@ -1,0 +1,13 @@
+name = "More (Item/Painting) Frame Variants (MStV+)"
+filename = "MoreFrameVariants-1.1.1+1.21.4-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vwp1lXf8/versions/SFbIq4Gk/MoreFrameVariants-1.1.1%2B1.21.4-Fabric.jar"
+hash-format = "sha1"
+hash = "a20e9c52ac8b0dafb7a3885308aead0e1bdc2f6c"
+
+[update]
+[update.modrinth]
+mod-id = "vwp1lXf8"
+version = "SFbIq4Gk"

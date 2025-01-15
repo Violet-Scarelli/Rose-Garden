@@ -1,0 +1,13 @@
+name = "Nemo's Woodcutter"
+filename = "nemos-woodcutter-Fabric-1.21.4-1.12.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mr1LTtgz/versions/k7FYaNxG/nemos-woodcutter-Fabric-1.21.4-1.12.6.jar"
+hash-format = "sha1"
+hash = "bd1b37d9707222f0880a7fd9dcd399c2fa9ebb49"
+
+[update]
+[update.modrinth]
+mod-id = "mr1LTtgz"
+version = "k7FYaNxG"

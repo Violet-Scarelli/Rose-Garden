@@ -1,0 +1,16 @@
+name = "Rose Garden"
+author = "VivvyInks"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3c96e40b54c3cb09e0849c1d944b80ae7fafeae1d41dbf8b80964a83c6b6c550"
+
+[versions]
+fabric = "0.16.10"
+minecraft = "1.21.4"
+
+[options]
+acceptable-game-versions = ["1.21.3"]

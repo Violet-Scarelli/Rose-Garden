@@ -1,0 +1,13 @@
+name = "More Barrel Variants"
+filename = "MoreBarrelVariants-1.7.7+1.21.4-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/g4AhyGgi/versions/QnR7zkEP/MoreBarrelVariants-1.7.7%2B1.21.4-Fabric.jar"
+hash-format = "sha1"
+hash = "b4a9294c0c16228ceab97d227fba8e861fdd10e6"
+
+[update]
+[update.modrinth]
+mod-id = "g4AhyGgi"
+version = "QnR7zkEP"

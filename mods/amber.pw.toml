@@ -1,0 +1,13 @@
+name = "Amber"
+filename = "amber-fabric-1.21.4-2.1.0+1.21.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vjGZJDu5/versions/UOQGwZI8/amber-fabric-1.21.4-2.1.0%2B1.21.4.jar"
+hash-format = "sha1"
+hash = "7e87454215ead0ebfef03f6e0cc878b0aee445f7"
+
+[update]
+[update.modrinth]
+mod-id = "vjGZJDu5"
+version = "UOQGwZI8"
