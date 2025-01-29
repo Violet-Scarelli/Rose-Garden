@@ -1,0 +1,13 @@
+name = "Will's Farming Tweaks"
+filename = "wills-farming-tweaks-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OAAPRdFq/versions/iabnqyV4/wills-farming-tweaks-1.0.3.jar"
+hash-format = "sha1"
+hash = "5d47d4b1bbe2f935197a86acb53a27d6a3ea691e"
+
+[update]
+[update.modrinth]
+mod-id = "OAAPRdFq"
+version = "iabnqyV4"

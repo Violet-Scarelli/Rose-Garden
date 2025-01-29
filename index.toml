@@ -21,8 +21,23 @@ hash = "e5287e0bfeaec81c0108148e7fd39ddcdd7f372428c157aef89a8e7fcdb6d156"
 metafile = true
 
 [[files]]
+file = "mods/axes-are-weapons.pw.toml"
+hash = "770e7da1c7a51e3c57ec440ec8011c225f1413fe139523c0c6dffa0d911718e9"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "97c0b33cad7cc11678597a5c3d966b08aa232c9e3824b45222c07a566338596e"
+metafile = true
+
+[[files]]
+file = "mods/better-boat-movement.pw.toml"
+hash = "133d8a54a308017aff67b04eeddd6341fe67a73bf23123a08eb327bb1ab8624a"
+metafile = true
+
+[[files]]
+file = "mods/better-third-person.pw.toml"
+hash = "974c6c1f094ba0e0d2a35e7e36f6eb46ac89da3029bcf85244fb933e4369ef7d"
 metafile = true
 
 [[files]]
@@ -31,8 +46,28 @@ hash = "1993aff0b96dc6db273039535e8f6f496c9f44f5a14fc8b153b7c9212e8f74ad"
 metafile = true
 
 [[files]]
+file = "mods/blossomenderchest.pw.toml"
+hash = "4f1c85314edaa62d086ac5b9ba4485875a831d42342ad1f848efe25229c27d3e"
+metafile = true
+
+[[files]]
+file = "mods/blossomlib.pw.toml"
+hash = "dd9c34cfaec5f24ab3e4b85d429aba02a999023871b45a98bdb31a04e766eeb6"
+metafile = true
+
+[[files]]
+file = "mods/blossomtpa.pw.toml"
+hash = "d129394a2976844ffc52c5471273c4445b7f4bfd16cdd189f2691b3ac4d8a892"
+metafile = true
+
+[[files]]
 file = "mods/bobby.pw.toml"
 hash = "e77924d62045c29de5694b9a9d01740f58b91dde24e0390fc0d743170c5a6a43"
+metafile = true
+
+[[files]]
+file = "mods/chalk.pw.toml"
+hash = "55f809d806ae75b77a4852564c220c67c5734b21958fbc727304a42ba97435aa"
 metafile = true
 
 [[files]]
@@ -68,6 +103,16 @@ metafile = true
 [[files]]
 file = "mods/colorful-books.pw.toml"
 hash = "929edb684afe53b43a2aadd8904108df2173a9e570888f2f021bf661ab2829ba"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "11d3ae4d547191988efc278f995021d7e70d95ddc7ee3cdcce7ad5a9e0b00ce9"
+metafile = true
+
+[[files]]
+file = "mods/copper-hopper.pw.toml"
+hash = "70c775831457f7adc26ed94e751ed805c5ded5c242ff4702ac160673253160a3"
 metafile = true
 
 [[files]]
@@ -121,6 +166,11 @@ hash = "00d9b198ef82ecc127e22b10cb02798bf4170d8284a2f8b80a96d8275a490b35"
 metafile = true
 
 [[files]]
+file = "mods/frozenlib.pw.toml"
+hash = "581ef82cb8de09a8b20a88739c696415cf11084aa7d2bdcda7cacaaa77f1ef92"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "3c63c0bb4c0d0da3e2c3a0992c3d1f12d17cb1c3c953b56ab5ca29403df10613"
 metafile = true
@@ -163,6 +213,11 @@ metafile = true
 [[files]]
 file = "mods/lighty.pw.toml"
 hash = "dae9ab43be4c24ebcd0460f17b82aff2453763ab4602e2117a3130dcfbfb889a"
+metafile = true
+
+[[files]]
+file = "mods/linkart-refabricated.pw.toml"
+hash = "d3b237276399a8003447926229ce14df9f81a30af98bfe6896fd2a8b8d5e983e"
 metafile = true
 
 [[files]]
@@ -251,8 +306,18 @@ hash = "ef3bae4af5643c5d66795bc0bbf14b07cf47ec4e9e0a6744565c1cf8a6ba1d56"
 metafile = true
 
 [[files]]
+file = "mods/oxify.pw.toml"
+hash = "a17005882a841e5ae5ce66608a19485c4d2520af25938406c48af707b31214ff"
+metafile = true
+
+[[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "e70898e1cd7609827f504f9fb346c86b729c33a2553a588828fcfc40804230a3"
+metafile = true
+
+[[files]]
+file = "mods/ping-wheel.pw.toml"
+hash = "30a0474b50c66797befc42e3a832fa4b246bd73a31073ddcd3378c3924ba8d01"
 metafile = true
 
 [[files]]
@@ -281,6 +346,16 @@ hash = "f1df88640f054a763956b8daa59a8ab974fc6dc4943e07ad74cee1f98c96b72d"
 metafile = true
 
 [[files]]
+file = "mods/simple-copper-pipes.pw.toml"
+hash = "ee157d7857b61cb5c42d873f2ec4c4379003f5fb070dc62c7e38a8049d31d93d"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "ce2bc1974c20510a3ef099c935ad03fbee396cca1241ab673b180c393ccd2163"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "b8cd9f9a9985fce11bf5fdcd7fc8e571a14214210d242adc8b58cf79f2380551"
 metafile = true
@@ -296,6 +371,16 @@ hash = "7ea8729598e5b71f5e5dc3e52d09842a9a603d06f4331a954ab56be869f314a5"
 metafile = true
 
 [[files]]
+file = "mods/thecopperrail.pw.toml"
+hash = "e88a7ae41843c2b9456bb681540b64381479ecd142d98f95c8fa04b821b3f816"
+metafile = true
+
+[[files]]
+file = "mods/trimmable-tools.pw.toml"
+hash = "ef0ecf8b69580a23fa47ae8fe2ce2a9d98d42e0a661046544a614d7472a0c0a3"
+metafile = true
+
+[[files]]
 file = "mods/tsa-decorations.pw.toml"
 hash = "89b23b831e9fc1d0b9b500d88240da570ce17f1264a7b16378c2861c694fd7da"
 metafile = true
@@ -306,8 +391,18 @@ hash = "7af72cdd92e187026d7050479f18a9d0a4f9980aa08b83a34e1856be8eb08aef"
 metafile = true
 
 [[files]]
+file = "mods/voice-chat-interaction.pw.toml"
+hash = "b74e981f8eb60c868f6714185ed6ceed0d51871bce6bc0541fbda5f17e9c6ec8"
+metafile = true
+
+[[files]]
 file = "mods/waystones.pw.toml"
 hash = "01500780af759f45b83b2d9d5b5bde8961397aaa1efce30044f529ef7afd2598"
+metafile = true
+
+[[files]]
+file = "mods/wills-farming-tweaks.pw.toml"
+hash = "dfd9339dd15fafb91ebb6b9d3a51a9883e7a53abfdf0ac632eb2db2b671778c2"
 metafile = true
 
 [[files]]
@@ -329,3 +424,11 @@ metafile = true
 file = "shaderpacks/complementary-unbound.pw.toml"
 hash = "a0fc045008eab042b01f71df6ab896bdb65c907182716b094cc7932d1dad42e0"
 metafile = true
+
+[[files]]
+file = "unsup.ini"
+hash = "ed788634546ceda34efea1cb9dcadc9bb8129b920bdf2224af1f75efee505b2d"
+
+[[files]]
+file = "unsup.jar"
+hash = "87e4a98ccbefa460251ced5863e98faa8cabbf1a035f40a82a5fbd8c0dcbf5fc"

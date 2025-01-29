@@ -1,0 +1,13 @@
+name = "Linkart Refabricated"
+filename = "linkart-refabricated-6.1.0-1.21.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/XcifMBeU/versions/QivLrYY5/linkart-refabricated-6.1.0-1.21.4.jar"
+hash-format = "sha1"
+hash = "e2a8bdbdd3e4f43d6facbe02dfb2d5004dbd8d2f"
+
+[update]
+[update.modrinth]
+mod-id = "XcifMBeU"
+version = "QivLrYY5"
