@@ -371,6 +371,11 @@ hash = "7ea8729598e5b71f5e5dc3e52d09842a9a603d06f4331a954ab56be869f314a5"
 metafile = true
 
 [[files]]
+file = "mods/spyglass-astronomy.pw.toml"
+hash = "9b8a79356ac7e65f8dcf22a8e08faeadc462fe2166f211e6315363d295b7f56c"
+metafile = true
+
+[[files]]
 file = "mods/thecopperrail.pw.toml"
 hash = "e88a7ae41843c2b9456bb681540b64381479ecd142d98f95c8fa04b821b3f816"
 metafile = true
@@ -427,7 +432,7 @@ metafile = true
 
 [[files]]
 file = "unsup.ini"
-hash = "ed788634546ceda34efea1cb9dcadc9bb8129b920bdf2224af1f75efee505b2d"
+hash = "cb2cb40e1daa588d8cca412fbf4a29ec9e837ce3ab36e3ea1be16eeb9368dd0b"
 
 [[files]]
 file = "unsup.jar"
