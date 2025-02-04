@@ -151,6 +151,10 @@ hash = "c0f791cad09e48ac8875162a148314a6e1e5b7190819e820197e5bbd3c7f439e"
 metafile = true
 
 [[files]]
+file = "mods/figura-0.1.5-rc.6+1.21.4-fabric-mc.jar"
+hash = "6abb9bcb7897f4b836bcf306b9110b7e079f108a0485596a10affd53688086be"
+
+[[files]]
 file = "mods/filament.pw.toml"
 hash = "be5df454bc353836c0ad0aaadf863395372daa788bb10e17553b596877b13ef8"
 metafile = true
