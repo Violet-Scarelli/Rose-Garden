@@ -6,6 +6,11 @@ hash = "0bbe6d0e6e2bc0bc90fda2da56cc12e3b56448185c5c3181939659670d13019f"
 metafile = true
 
 [[files]]
+file = "mods/accessories.pw.toml"
+hash = "082c59c6a83d01f30931906e8226165fcd509745d4b05870902458c4dc5f6556"
+metafile = true
+
+[[files]]
 file = "mods/amber.pw.toml"
 hash = "8c61bc50261d558f7f669685faef51b91c93d0681d905c3dcdd23fb88dbd45fd"
 metafile = true
@@ -86,6 +91,11 @@ hash = "3afbd4233ab7b737a012e5f703dc7d6a127d5a509e5c3fc637a7725c84568ab6"
 metafile = true
 
 [[files]]
+file = "mods/cicada.pw.toml"
+hash = "297dd82f1d42c22395400dd946272f559182b840d777d076737f9df99dca3cc9"
+metafile = true
+
+[[files]]
 file = "mods/clickthrough+.pw.toml"
 hash = "daec91093b0aa03a827b518657e67bd7ee373388c3dd18af1d4b2d92ddfb993b"
 metafile = true
@@ -123,6 +133,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "f42ac5b765061a9246f62bb63f682303c707c02addd50278cc078395c64e0dab"
+metafile = true
+
+[[files]]
+file = "mods/ears.pw.toml"
+hash = "0c058b0062677ef8ac4b3e530ea8aa3644c02e166874e27603cb04cd3e20bbb7"
 metafile = true
 
 [[files]]
@@ -175,6 +190,11 @@ hash = "581ef82cb8de09a8b20a88739c696415cf11084aa7d2bdcda7cacaaa77f1ef92"
 metafile = true
 
 [[files]]
+file = "mods/headpat.pw.toml"
+hash = "b9ed084f6507bcf29c175d430e0b3714bff67e8704cd5032d9926df2ff45385a"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "3c63c0bb4c0d0da3e2c3a0992c3d1f12d17cb1c3c953b56ab5ca29403df10613"
 metafile = true
@@ -207,6 +227,11 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "57d890a26f6441ecdb4c1285f4979f208da16d9d917565844a50a20bd803d49b"
+metafile = true
+
+[[files]]
+file = "mods/leashable-collars.pw.toml"
+hash = "88f97cc1960a7c180cafea02b09f71d73f10496e61ef8e47a08bca8e05a1452a"
 metafile = true
 
 [[files]]
